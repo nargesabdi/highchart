@@ -1,0 +1,23 @@
+
+
+  .highcharts-container{
+    width:100%; 
+    height:400px;
+   
+  }
+  .highcharts-title{
+    font-family: pinar;
+  }
+  .highcharts-xaxis-labels{
+    font-family: 'b nazanin';
+  }
+
+  .highcharts-yaxis-labels{
+    font-family: 'b nazanin';
+  }
+  .highcharts-series-labels{
+    font-family: 'b nazanin';
+  }
+
+
+
